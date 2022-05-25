@@ -1,1 +1,2 @@
-# basit-hesap-makinesi-yapimi
+[Patika Linkim](https://app.patika.dev/medgicakir)
+
